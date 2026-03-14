@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "number": "001",
+    "name": "Exemplo: Colete Hidratação Triathlon",
+    "description": "Colete leve com capacidade para 1.5L, ideal para corridas longas e treinos de triathlon.",
+    "category": "triathlon",
+    "price": 189.90,
+    "image": "https://placehold.co/400x300?text=Produto+001",
+    "affiliate_url": "https://exemplo.com/link-afiliado",
+    "source": "amazon",
+    "status": "active",
+    "last_checked": "2026-03-14",
+    "created_at": "2026-03-14"
+  }
+]
