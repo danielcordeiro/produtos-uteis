@@ -67,4 +67,18 @@
     "last_checked": "2026-03-14",
     "created_at": "2026-03-14"
   }
+  ,
+  {
+    "id": 6,
+    "number": "006",
+    "name": "Geladeira Portátil Automotiva Dreiha 37L Bluetooth 12/24V",
+    "description": "Geladeira portátil para carro com 37L de capacidade, controle Bluetooth, resfria até -20°C. Ideal para viagens e pescarias.",
+    "category": "viagem",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_772633-MLA99966390975_112025-O.webp",
+    "affiliate_url": "https://meli.la/31W8UsD",
+    "source": "mercadolivre",
+    "status": "active",
+    "last_checked": "2026-03-14",
+    "created_at": "2026-03-14"
+  }
 ]
