@@ -183,16 +183,10 @@
       margin-top: 0.25rem;
     }
 
-    .card-price {
-      font-size: 1rem;
-      font-weight: 700;
-      color: var(--text);
-    }
-
-    .card-price span {
-      font-size: 0.7rem;
+    .card-source {
+      font-size: 0.78rem;
       color: var(--muted);
-      font-weight: 400;
+      text-transform: capitalize;
     }
 
     .btn {
@@ -258,10 +252,6 @@
   let products = [];
   let activeCategory = 'all';
 
-  const fmt = (v) => v
-    ? 'R$ ' + Number(v).toLocaleString('pt-BR', { minimumFractionDigits: 2 })
-    : '';
-
   async function load() {
     const res = await fetch('products.json?' + Date.now());
     products = await res.json();
@@ -319,9 +309,7 @@
           <div class="card-name">${p.name}</div>
           <div class="card-desc">${p.description || ''}</div>
           <div class="card-footer">
-            <div class="card-price">
-              ${p.price ? fmt(p.price) : '<span style="color:var(--muted);font-size:0.85rem">Ver preço</span>'}
-            </div>
+            <span class="card-source">${p.source || ''}</span>
             ${!inactive ? `<a class="btn" href="${p.affiliate_url}" target="_blank" rel="noopener noreferrer">Ver oferta →</a>` : ''}
           </div>
         </div>

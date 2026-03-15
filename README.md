@@ -19,7 +19,6 @@ Edite `products.json` e adicione um objeto no array:
   "name": "Nome do Produto",
   "description": "Descrição curta do produto.",
   "category": "triathlon",
-  "price": 299.90,
   "image": "URL da imagem",
   "affiliate_url": "https://seu-link-afiliado.com",
   "source": "amazon",
@@ -38,7 +37,6 @@ Edite `products.json` e adicione um objeto no array:
 | `name` | Nome do produto |
 | `description` | Descrição curta |
 | `category` | Categoria (ex: `triathlon`, `tech`, `casa`, `nutricao`) |
-| `price` | Preço em reais (número, sem R$) |
 | `image` | URL da imagem do produto |
 | `affiliate_url` | Link de afiliado |
 | `source` | Marketplace (`amazon`, `shopee`, `hotmart`, etc.) |
