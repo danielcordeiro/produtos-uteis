@@ -2,12 +2,12 @@
   {
     "id": 1,
     "number": "001",
-    "name": "Exemplo: Colete Hidratação Triathlon",
-    "description": "Colete leve com capacidade para 1.5L, ideal para corridas longas e treinos de triathlon.",
-    "category": "triathlon",
-    "image": "https://placehold.co/400x300?text=Produto+001",
-    "affiliate_url": "https://exemplo.com/link-afiliado",
-    "source": "amazon",
+    "name": "Bota de Compressão Pneumática F10 Pro Sem Fio Relaxmedic",
+    "description": "Bota de recuperação pneumática sem fio com 4 câmaras, ideal para recuperação muscular pós-treino. Bivolt (127/220V).",
+    "category": "recovery",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_658181-MLB92487215417_092025-O.webp",
+    "affiliate_url": "https://meli.la/2CpXqoh",
+    "source": "mercadolivre",
     "status": "active",
     "last_checked": "2026-03-14",
     "created_at": "2026-03-14"
