@@ -53,4 +53,18 @@
     "last_checked": "2026-03-14",
     "created_at": "2026-03-14"
   }
+  ,
+  {
+    "id": 5,
+    "number": "005",
+    "name": "Linha Multifilamento Maruri Nelson Nakamura 8x PE 200m — Amarelo",
+    "description": "Linha de pesca multifilamento 8 fios, 200m, alta resistência e sensibilidade. Ideal para carretilha.",
+    "category": "pesca",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_820962-MLA99473147322_112025-O.webp",
+    "affiliate_url": "https://meli.la/2V21KMf",
+    "source": "mercadolivre",
+    "status": "active",
+    "last_checked": "2026-03-14",
+    "created_at": "2026-03-14"
+  }
 ]
