@@ -89,5 +89,18 @@
     "status": "inactive",
     "last_checked": "2026-06-22",
     "created_at": "2026-03-14"
+  },
+  {
+    "id": 8,
+    "number": "008",
+    "name": "Sapateira Vertical de Acrílico com 6 Andares Transparente",
+    "description": "Organizador vertical de acrílico transparente com 6 andares para sapatos. Empilhável e compacto, ideal para closets e quartos.",
+    "category": "casa",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_840764-MLA101402618334_122025-O.webp",
+    "affiliate_url": "https://meli.la/14CKGSK",
+    "source": "mercadolivre",
+    "status": "active",
+    "last_checked": "2026-06-22",
+    "created_at": "2026-06-22"
   }
 ]
